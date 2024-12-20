@@ -1,8 +1,6 @@
-# Hi 👋 My name is Harsh Dalsaniya
+# Hi 👋 My name is Vijay Narola
 
-## Fullstack developer from India
-
-\- Fun fact: Big Fan of Photography & videography
+## MERN Stack developer from India
 
 - 🌍  I’m currently working at **Sigma Solve ltd.** based in Ahmadabad,India
 - ✉️  You can contact me at [vijayjnarola@gmail.com](mailto:vijayjnarola@gmail.com)
@@ -33,71 +31,10 @@
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Vijay70461"><img src="https://github-readme-stats.vercel.app/api?username=HarshrInfynno&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vijay's GitHub stats" /></a>
+<a href="https://github.com/Vijay70461"><img src="https://github-readme-stats.vercel.app/api?username=Vijay70461&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="Vijay's GitHub stats" /></a>
 
-<a href="https://github.com/Vijay70461"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshrInfynno&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Vijay70461"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay70461&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Vijay70461" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshrInfynno&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Vijay70461" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay70461&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!--
-<h1 align="center">Welcome to my profile!</h1>
-<p align="center">I'm Vijay Narola, Fullstack developer from India.</p>
 
-- 🔭 I’m currently working at **Sigma Solve ltd. in Ahmedabad**
-- 🌱 I’m currently learning **Advance React & Microservices**
-- 📫 How to reach me: [vijayjnarola@gmail.com](mailto:vijayjnarola@gmail.com) via email
-
----
-
-<h2 align="left" id="HarshrInfynno-tech">Favorite Tech & Stats</h2>
-
-> Tools, languages, and other things that I like to work with.
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/node-js.png" width="48" height="48" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/express.png" width="48" height="48" alt="Express" />
-      </a>
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/react.png" width="48" height="48" alt="Reactjs" />
-      </a>
-      <br>Reactjs
-    </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/typescript.png" width="48" height="48" alt="Typescript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/mysql.png" width="48" height="48" alt="MySql" />
-      </a>
-      <br>MySql
-    </td>
-      <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/github.png" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <a href="#HarshrInfynno-tech">
-        <img src="./images/linux.png" width="48" height="48" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-  </tr>
-</table>
-
- -->
